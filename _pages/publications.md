@@ -11,6 +11,10 @@ Unless stated otherwise, author names are in **alphabetical order**.
 
 ## Manuscript / In submission
 
+### Undirected 3-Fault Replacement Path in Nearly Cubic Time [[arxiv]](https://arxiv.org/abs/2411.18312)
+
+Shucheng Chi, Ran Duan, Benyu Wang, Tianle Xie
+
 ## 2023
 
 ### Tight Conditional Lower Bounds for Vertex Connectivity Problems [[arxiv]](https://arxiv.org/abs/2212.00359)
