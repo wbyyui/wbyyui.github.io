@@ -11,9 +11,13 @@ Unless stated otherwise, author names are in **alphabetical order**.
 
 ## Manuscript / In submission
 
+## 2025
+
 ### Undirected 3-Fault Replacement Path in Nearly Cubic Time [[arxiv]](https://arxiv.org/abs/2411.18312)
 
 Shucheng Chi, Ran Duan, Benyu Wang, Tianle Xie
+
+**ICALP 2025**
 
 ## 2023
 
