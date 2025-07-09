@@ -19,6 +19,12 @@ Shucheng Chi, Ran Duan, Benyu Wang, Tianle Xie
 
 **ICALP 2025**
 
+### Near-Optimal Fault-Tolerant Strong Connectivity Preservers
+
+Gary Hoppenworth, Thatchaphol Saranurak, Benyu Wang
+
+**FOCS 2025**
+
 ## 2023
 
 ### Tight Conditional Lower Bounds for Vertex Connectivity Problems [[arxiv]](https://arxiv.org/abs/2212.00359)
