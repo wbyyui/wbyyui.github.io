@@ -9,12 +9,17 @@ redirect_from:
 
 My teaching experiences.
 
-### Teaching Assistant, Design and Analysis of Algorithms
+### Grad Student Instructor, Introduction to Algorithms
 
-- Fall 2022, Tsinghua University
-- Graduate-Level algorithm course, instructed by Prof. [Ran Duan](https://iiis.tsinghua.edu.cn/duanr/).
+- Winter 2025, University of Michigan
+- Undergraduate algorithm course, instructed by Prof. [Thatchaphol Saranurak](https://sites.google.com/site/thsaranurak/).
 
 ### Teaching Assistant, Theory of Computation
 
 - Spring 2023, Tsinghua University
-- Undergraduate theory course, instructed by Prof. [Ran Duan](https://iiis.tsinghua.edu.cn/duanr/).
+- Undergraduate complexity course, instructed by Prof. [Ran Duan](https://iiis.tsinghua.edu.cn/duanr/).
+
+### Teaching Assistant, Design and Analysis of Algorithms
+
+- Fall 2022, Tsinghua University
+- Graduate-Level algorithm course, instructed by Prof. [Ran Duan](https://iiis.tsinghua.edu.cn/duanr/).

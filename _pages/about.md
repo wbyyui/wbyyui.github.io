@@ -10,7 +10,7 @@ redirect_from:
 
 # About me
 
-I am currently a second-year PhD student at University of Michigan and luckily being advised by [Prof. Thatchaphol Saranurak](https://sites.google.com/site/thsaranurak/). I was at INSAIT in fall 2024 as a visiting student. I have a broad interest in theoretical computer science and mathematics, especially in graph algorithms and combinatorics.
+I am currently a second-year PhD student at University of Michigan and luckily being advised by [Prof. Thatchaphol Saranurak](https://sites.google.com/site/thsaranurak/). I was at INSAIT in Fall 2024 as a visiting student. I have a broad interest in theoretical computer science and mathematics, especially in graph algorithms and combinatorics.
 
 Before my PhD, I was an undergraduate student in [Yao Class](https://iiis.tsinghua.edu.cn/en/yaoclass/), Tsinghua University. During the spring and summer of 2022, I visited the wonderful [theory group](https://cse.engin.umich.edu/research/research-areas/theory-of-computation/) of UM and worked closely with [Prof. Seth Pettie](https://web.eecs.umich.edu/~pettie/) and [Prof. Thatchaphol Saranurak](https://sites.google.com/site/thsaranurak/).
 
