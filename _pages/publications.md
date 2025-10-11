@@ -13,7 +13,7 @@ Unless stated otherwise, author names are in **alphabetical order**.
 
 ## 2025
 
-### Near-Optimal Fault-Tolerant Strong Connectivity Preservers
+### Near-Optimal Fault-Tolerant Strong Connectivity Preservers [[arxiv]](https://arxiv.org/abs/2510.02562)
 
 Gary Hoppenworth, Thatchaphol Saranurak, Benyu Wang
 
