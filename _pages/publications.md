@@ -5,11 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-A list for my publications.
-
-Unless stated otherwise, author names are in **alphabetical order**. 
+A list for my publications. Unless stated otherwise, author names are in **alphabetical order**. 
 
 ## Manuscript / In submission
+
+### Approximating Directed Minimum Cut and Arborescence Packing via Directed Expander Hierarchies [[arxiv]](https://arxiv.org/abs/2512.05300)
+
+Yonggang Jiang, Yaowei Long, Thatchaphol Saranurak, Benyu Wang
 
 ## 2025
 
