@@ -13,6 +13,14 @@ A list for my publications. Unless stated otherwise, author names are in **alpha
 
 Yonggang Jiang, Yaowei Long, Thatchaphol Saranurak, Benyu Wang
 
+## 2026
+
+### **Connectivity Oracle Under Vertex Failures by Shortcutting Unbreakable Decomposition**
+
+Xizhe Li, Yaowei Long, David Pidugu, Thatchaphol Saranurak, Benyu Wang
+
+**ICALP 2026**
+
 ## 2025
 
 ### Near-Optimal Fault-Tolerant Strong Connectivity Preservers [[arxiv]](https://arxiv.org/abs/2510.02562)
