@@ -16,7 +16,6 @@ Before my PhD, I was an undergraduate student in [Yao Class](https://iiis.tsingh
 
 I love theoretical thinking, for both research problems and ICPC- or IMO- style questions, also puzzle games for fun.
 
-
-
 My website is powered by the [academicpages template](https://academicpages.github.io) and hosted on GitHub pages.
 
+**News:** Two problems I have focused on for more than half a year have been solved by GPT-6. [This](/../files/symmetric_connectivity_preserver.pdf) is one of them. I will verify the results.
