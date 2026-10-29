@@ -18,4 +18,6 @@ I love theoretical thinking, for both research problems and ICPC- or IMO- style 
 
 My website is powered by the [academicpages template](https://academicpages.github.io) and hosted on GitHub pages.
 
-**News:** Two problems I have focused on for more than half a year may have been solved by GPT-6. [This](/../files/symmetric_connectivity_preserver.pdf) is one of them. I will verify the results.
+**News:** Two problems I have focused on for more than half a year may have been solved by GPT-6. [This](/../files/symmetric_connectivity_preserver.pdf) is one of them. [This](https://arxiv.org/abs/2610.10898) is the other one of them.
+
+I feel most graph algorithm research will be done by AI in the future. This is sad in some sense as a human researcher, but I am still personally happy in understanding them and finding useful concepts.
