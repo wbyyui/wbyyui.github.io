@@ -7,7 +7,7 @@ author_profile: true
 
 A list for my publications. Unless stated otherwise, author names are in **alphabetical order**. 
 
-### Directed Global Minimum Cut in Almost-Linear Time [arxiv](https://arxiv.org/abs/2610.10898)
+### Directed Global Minimum Cut in Almost-Linear Time [[arxiv]](https://arxiv.org/abs/2610.10898)
 
 Henry Fleischmann, Jason Li, Thatchaphol Saranurak, Benyu Wang
 
