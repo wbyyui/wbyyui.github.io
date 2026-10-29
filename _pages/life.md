@@ -22,7 +22,6 @@ author_profile: true
 Some songs:
 
 - [朧 - HHH×MM×ST](https://www.youtube.com/watch?v=TizI0LEGXqk)
-- [sølips - rintaro soma](https://www.youtube.com/watch?v=Aaf7N_wfUMM)
 - [FFT - cybermiso](https://www.youtube.com/watch?v=0kOsNTbXAI0)
 - [うたかたのせかいで - DJ Raisei vs Setca. feat.nayuta](https://www.youtube.com/watch?v=NROQyBPX9Uo)
 - [Amnéhilesie - MisomyL](https://www.youtube.com/watch?v=U0fTYIL5IvQ)
@@ -34,31 +33,27 @@ Some songs:
 ## Puzzle Games
 
 - Baba is you
+- Theta and Paralldoxs on Worldlines
 - Understand
-- Tametsi / 14 Minesweeper Variants
 - Leap Year
-- Bean and nothingness (recommended by Yeyuan Chen)
+- The Artisan of Glimmith
+- Can of Wormholes (recommended by Nicole Wein)
+- Bean and nothingness (very hard, recommended by Yeyuan Chen)
 - Patrick's Parabox
+- Tametsi / 14 Minesweeper Variants
 - A=B (however I refuse coding in puzzle games now)
 - IMO / ICPC problems
 
 ## Animes
 
-- My anime list:
-  1. Steins; Gate (0)
-  2. Violet Evergarden
-  3. From The New World
-  4. Neon Genesis Evangelion
-  5. planetarian ~the reverie of a little planet~
-  6. Endro~!
-  7. BanG Dream! It's MyGO!!!!!
-  8. Puella Magi Madoka Magica
-  9. Bloom Into You
-
-+ Other good animes:
-  - Urara Meirocho
-  - Plastic Memories
-  - Girls Band Cry
-  - WorldEnd
-  - CLANNAD ~AFTER STORY~
-  - Angel Beats!
+10 Animes most recommended by me in order:
+0. Steins; Gate (0)
+1. Violet Evergarden
+2. From The New World
+3. Neon Genesis Evangelion
+4. Shirobako
+5. planetarian ~the reverie of a little planet~
+6. Bloom Into You
+7. Puella Magi Madoka Magica
+8. Endro~!
+9. BanG Dream! It's MyGO!!!!!
