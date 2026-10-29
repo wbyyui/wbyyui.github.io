@@ -28,7 +28,7 @@ Thatchaphol Saranurak, Benyu Wang
 **SOSA 2027**
 
 
-### **Connectivity Oracle Under Vertex Failures by Shortcutting Unbreakable Decomposition**
+### Connectivity Oracle Under Vertex Failures by Shortcutting Unbreakable Decomposition
 
 Xizhe Li, Yaowei Long, David Pidugu, Thatchaphol Saranurak, Benyu Wang
 
